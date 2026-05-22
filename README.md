@@ -16,7 +16,7 @@ Features
 
 -Compact and easy-to-use design
 
-Components Used
+Components Used:
 
 -SG90 Servo Motor
 
@@ -28,7 +28,7 @@ Components Used
 
 -Conveyor System
 
-How It Works
+How It Works:
 
 1.The machine detects a hand or material using the ultrasonic sensor.
 
