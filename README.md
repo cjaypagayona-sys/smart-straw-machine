@@ -1,6 +1,6 @@
 Smart Straw Machine
 
-#Introduction
+Introduction
 
 The Smart Straw Machine is an automated system designed to release drinking straws using sensors and motorized mechanisms. The machine detects a user’s hand or object and automatically dispenses a straw safely and efficiently.
 
