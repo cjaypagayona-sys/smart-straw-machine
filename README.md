@@ -1,10 +1,10 @@
-#Smart Straw Machine
+Smart Straw Machine
 
-##Introduction
+#Introduction
 
 The Smart Straw Machine is an automated system designed to release drinking straws using sensors and motorized mechanisms. The machine detects a user’s hand or object and automatically dispenses a straw safely and efficiently.
 
-##Features
+Features
 
 -Automatic straw dispensing
 
@@ -16,7 +16,7 @@ The Smart Straw Machine is an automated system designed to release drinking stra
 
 -Compact and easy-to-use design
 
-##Components Used
+Components Used
 
 -SG90 Servo Motor
 
@@ -28,7 +28,7 @@ The Smart Straw Machine is an automated system designed to release drinking stra
 
 -Conveyor System
 
-##How It Works
+How It Works
 
 1.The machine detects a hand or material using the ultrasonic sensor.
 
@@ -41,7 +41,7 @@ distance=duration×0.034/15cm
 
 5.Finished straws are released through the opening.
 
-##Objectives
+Objectives
 
 -To create a touchless straw dispensing system
 
@@ -49,7 +49,7 @@ distance=duration×0.034/15cm
 
 -To demonstrate automation using Arduino technology
 
-##Future Improvements
+Future Improvements
 
 -LCD display monitoring
 
@@ -59,7 +59,7 @@ distance=duration×0.034/15cm
 
 -Battery backup system
 
-##Developers
+Developers
 
 -Name:Cyrus Jay Pgayona
 
