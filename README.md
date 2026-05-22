@@ -76,3 +76,37 @@ Jhon Rey Fernandez
 ##License
 
 This project is for educational purposes only.
+
+Pseudocode
+
+START
+
+Initialize TRIG_PIN as OUTPUT
+Initialize ECHO_PIN as INPUT
+Initialize SERVO_PIN
+
+Attach servo motor to SERVO_PIN
+Set servo position to CLOSED (0 degrees)
+
+LOOP forever:
+
+    Send ultrasonic pulse from TRIG_PIN
+    Read echo signal from ECHO_PIN
+
+    Compute distance:
+        distance = duration * 0.034 / 2
+
+    Display distance on serial monitor
+
+    IF distance > 0 AND distance <= 15 THEN
+        Move servo to OPEN position (130 degrees)
+        Wait for OPEN_DELAY
+    ELSE
+        Move servo to CLOSED position (0 degrees)
+    ENDIF
+
+    Wait for LOOP_DELAY
+
+END LOOP
+
+END
