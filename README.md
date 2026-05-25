@@ -2,31 +2,31 @@ Smart Straw Machine
 
 Introduction
 
-The Smart Straw Machine is an automated system designed to release drinking straws using sensors and motorized mechanisms. The machine detects a user’s hand or object and automatically dispenses a straw safely and efficiently.
+- The Smart Straw Machine is an automated system designed to release drinking straws using sensors and motorized mechanisms. The machine detects a user’s hand or object and automatically dispenses a straw safely and efficiently.
 
-Features
+Features:
 
--Automatic straw dispensing
+- Automatic straw dispensing
 
--Ultrasonic sensor detection
+- Ultrasonic sensor detection
 
--Servo motor mechanism
+- Servo motor mechanism
 
--Touchless operation
+- Touchless operation
 
--Compact and easy-to-use design
+- Compact and easy-to-use design
 
 Components Used:
 
--SG90 Servo Motor
+- SG90 Servo Motor
 
--Arduino Nano
+- Arduino Nano
 
--Ultrasonic Sensor
+- Ultrasonic Sensor
 
--Power Supply
+- Power Supply
 
--Conveyor System
+- Conveyor System
 
 How It Works:
 
@@ -39,39 +39,39 @@ distance=duration×0.034/15cm
 
 4.The internal mechanism moves and prepares the straw.
 
-5.Finished straws are released through the opening.
+5.Straws are released through the opening.
 
-Objectives
+Objectives:
 
--To create a touchless straw dispensing system
+- To create a touchless straw dispensing system
 
--To improve convenience and hygiene
+- To improve convenience and hygiene
 
--To demonstrate automation using Arduino technology
+- To demonstrate automation using Arduino technology
 
-Future Improvements
+Future Improvements:
 
--LCD display monitoring
+- LCD display monitoring
 
--Mobile app integration
+- Mobile app integration
 
--Faster dispensing mechanism
+- Faster dispensing mechanism
 
--Battery backup system
+- Battery backup system
 
-Developers
+Developers:
 
--Name:Cyrus Jay Pgayona
+- Name:Cyrus Jay Pgayona
 
--Group Members:
+ Group Members:
 
-Vince Marlon Lagan
+ - Vince Marlon Lagan
 
-Justine Carl Abria
+ - Justine Carl Abria
 
-JDerric  Cantila
+ - JDerric  Cantila
 
-Jhon Rey Fernandez 
+ - Jhon Rey Fernandez 
 
 ##License
 
